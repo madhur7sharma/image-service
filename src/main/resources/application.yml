@@ -1,0 +1,10 @@
+server:
+  port: 9002
+
+eureka:
+  instance:
+    hostname: localhost
+
+spring:
+  application:
+    name: image-service
